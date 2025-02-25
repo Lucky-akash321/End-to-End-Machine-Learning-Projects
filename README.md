@@ -114,6 +114,10 @@ After deployment, continuous monitoring is critical to ensure the model remains 
 - Setting up alerts and dashboards to track metrics and performance degradation.
 - Retraining the model periodically with new data to keep it up-to-date and relevant.
 
+
+![](https://github.com/Lucky-akash321/End-to-End-Machine-Learning-Projects/blob/main/1_pH-AnWEvq8FpLBRxCLPojw.png)
+
+
 ## Best Practices
 
 - **Version Control**: Use version control tools like Git to track changes in the project.
