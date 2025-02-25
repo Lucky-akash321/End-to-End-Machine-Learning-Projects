@@ -1,5 +1,8 @@
 # End-to-End Machine Learning Projects
 
+![](https://github.com/Lucky-akash321/End-to-End-Machine-Learning-Projects/blob/main/0_d45LaijfljvGLqUH.png)
+
+
 ## Overview
 
 An **End-to-End Machine Learning (ML) Project** involves the complete lifecycle of a machine learning model—from understanding the problem, collecting data, training the model, evaluating its performance, to deploying it for real-world use. This kind of project aims to provide a comprehensive experience that covers both the technical and non-technical aspects of an ML system.
